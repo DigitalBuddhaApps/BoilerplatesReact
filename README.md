@@ -4,7 +4,9 @@
 
 To get started simply download the repo using the link below. All required files are included.
 
-The main index.html is in the demos folder. Inside the demos there are4 boiler plates. Click on the index.html in each of them and open on web browser to display it.
+https://github.com/DigitalBuddhaApps/BoilerplatesReact
+
+The main index.html is in the demos folder. Inside the demos there are 4 boiler plates. Click on the index.html in each of them and open on web browser to display it.
 
 ## Setting up Gulp (optional)
 
